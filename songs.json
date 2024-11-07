@@ -1,0 +1,104 @@
+[
+  {
+    "id": "audio1",
+    "imgSrc": "https://i1.sndcdn.com/artworks-OF0zaPXY7cuM-0-t500x500.jpg",
+    "songName": "delusional",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Ken%20Carson%20-%20delusional.mp3?v=1730939147976"
+  },
+  {
+    "id": "audio2",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+    "songName": "I KNOW ?",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Travis%20Scott%20-%20I%20KNOW%20.mp3?v=1730939151122"
+  },
+  {
+    "id": "audio3",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+    "songName": "overseas",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/overseas.mp3?v=1730939029776"
+  },
+  {
+    "id": "audio4",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+    "songName": "Fighting My Demons",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/fightingmydemons.mp3?v=1730939032831"
+  },
+  {
+    "id": "audio5",
+    "imgSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/made-a-cover-art-of-sydney-sweeney-what-yall-think-v0-qvvsgqmspqpc1.webp?v=1730946033039",
+    "songName": "ss",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/ss.mp3?v=1730939033168"
+  },
+  {
+    "id": "audio6",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160",
+    "songName": "Nightcrawler",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Travis%20Scott%2C%20Swae%20Lee%2C%20Chief%20Keef%20-%20Nightcrawler%20(feat.%20Swae%20Lee%20%26%20Chief%20Keef)%20(1).mp3?v=1730940477511"
+  },
+  {
+    "id": "audio7",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273ca15942c726ec9c39796435e",
+    "songName": "ALL RED",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Playboi%20Carti%20-%20ALL%20RED.mp3?v=1730940471091"
+  },
+  {
+    "id": "audio8",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273ee2fe4a7b285d3817b470859",
+    "songName": "Timeless",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/The%20Weeknd%2C%20Playboi%20Carti%20-%20Timeless%20(with%20Playboi%20Carti).mp3?v=1730940468011"
+  },
+  {
+    "id": "audio9",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273e42b5fea4ac4c3d6328b622b",
+    "songName": "HIGHEST IN THE ROOM",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Travis%20Scott%20-%20HIGHEST%20IN%20THE%20ROOM%20(1).mp3?v=1730940473684"
+  },
+  {
+    "id": "audio10",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5",
+    "songName": "NEW DROP",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Don%20Toliver%20-%20NEW%20DROP%20(1).mp3?v=1730943750481"
+  },
+  {
+    "id": "audio11",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273ca7232129beaa19da34b919e",
+    "songName": "Yale",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Ken%20Carson%20-%20Yale.mp3?v=1730943685817"
+  },
+  {
+    "id": "audio12",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+    "songName": "MY EYES",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Travis%20Scott%20-%20MY%20EYES.mp3?v=1730943905026"
+  },
+  {
+    "id": "audio13",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
+    "songName": "Glock In My Lap",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/21%20Savage%2C%20Metro%20Boomin%20-%20Glock%20In%20My%20Lap%20(1).mp3?v=1730944041641"
+  },
+  {
+    "id": "audio14",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5",
+    "songName": "TORE UP",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Don%20Toliver%20-%20TORE%20UP%20(1).mp3?v=1730944168420"
+  },
+  {
+    "id": "audio15",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+    "songName": "BUTTERFLY EFFECT",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Travis%20Scott%20-%20BUTTERFLY%20EFFECT%20(1).mp3?v=1730944171268"
+  },
+  {
+    "id": "audio16",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273ef6655b813e1b2cd726e99d3",
+    "songName": "Modo Capone",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/Chino%20Pacas%2C%20Drake%2C%20Fuerza%20Regida%20-%20Modo%20Capone%20(with%20Drake%20%26%20Fuerza%20Regida).mp3?v=1730944166530"
+  },
+  {
+    "id": "audio16",
+    "imgSrc": "https://i.scdn.co/image/ab67616d0000b273200e2b6526846c59789c92e6",
+    "songName": "APAGA EL CEL",
+    "audioSrc": "https://cdn.glitch.global/d56d17dc-de7b-4ff8-908c-92c55003b067/FloyyMenor%2C%20Lewis%20Somes%20-%20APAGA%20EL%20CEL.mp3?v=1730945983250"
+  }
+]
